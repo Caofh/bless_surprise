@@ -1,0 +1,2 @@
+webpackJsonp([6],{JQXy:function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0});t.default={setTest:function(e,t){e.test=t}}}},["JQXy"]);
+//# sourceMappingURL=mutations.17143587542a2b18e5ff.js.map

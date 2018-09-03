@@ -1,0 +1,7 @@
+/*
+* base为 UI稿宽度 750 除以 10份 
+*/
+
+@function pr($px, $base: 75) {
+    @return ($px / $base) *1rem;
+}
