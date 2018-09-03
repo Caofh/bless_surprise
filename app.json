@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/demo/list"
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "#fff"
+  }
+}
