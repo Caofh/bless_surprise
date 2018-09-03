@@ -1,0 +1,5 @@
+<!--pages/stage/stage.wxml-->
+<text>具体模板制作页面 stage</text>
+
+<button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
+		disabled="{{disabled}}" bindtap="primary" bindtap="handleJump"> 做好了，预览 </button>

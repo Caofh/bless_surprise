@@ -1,0 +1,5 @@
+<!--pages/template/template.wxml-->
+<text>模板列表展示页面</text>
+
+<button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
+		disabled="{{disabled}}" bindtap="primary" bindtap="handleJump"> 选好了 制作 </button>

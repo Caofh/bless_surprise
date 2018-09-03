@@ -1,7 +1,9 @@
 {
   "pages": [
+    "pages/preview/preview",
+    "pages/template/template",
+    "pages/stage/stage",
     "pages/demo/list"
-
   ],
   "window": {
     "backgroundTextStyle": "light",
