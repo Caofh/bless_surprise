@@ -1,0 +1,12 @@
+<!--pages/preview/preview.wxml-->
+<text>分享进来的预览页面和制作模板后的原来页面</text>
+
+<view wx:if="{{templateType}}">
+  <button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
+		disabled="{{disabled}}" bindtap="primary" bindtap="handleJump"> 我真棒，我要分享出去 </button>
+</view>
+<view wx:else>
+  <button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
+		disabled="{{disabled}}" bindtap="primary" bindtap="handleJump"> 真好看，我也要做一个 </button>
+</view>
+
